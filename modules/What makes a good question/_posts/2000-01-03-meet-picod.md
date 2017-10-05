@@ -15,6 +15,7 @@ Well-developed research questions include elements of what we will call <b>PICO(
 <p class="hangingindent">
 
 <b>Population</b>: What specific people or conditions are you researching?
+<p>
 
 <b>Interventions</b>: (Exposure): What treatments, diagnostic tests, or other interventions or exposures are you studying? 
 
@@ -35,4 +36,3 @@ Some researchers use <b>(TS)</b> instead of <b>(D)</b> to stand for <b>T</b>imin
 
 In this course, we’ll start with a broad question and use PICO(D) to transform it into a well-formulated question that will guide our search for appropriate evidence. So, let’s get started. 
 
-</p>
