@@ -15,7 +15,7 @@ Well-developed research questions include elements of what we will call <b>PICO(
 <p class="hangingindent">
 
 <b>Population</b>: What specific people or conditions are you researching?
-<p>
+</p>
 
 <b>Interventions</b>: (Exposure): What treatments, diagnostic tests, or other interventions or exposures are you studying? 
 
