@@ -12,7 +12,7 @@ Well-developed research questions include elements of what we will call <b>PICO(
 <b>PICO</b> stands for:
 
 
-<div class=”indent” style=”padding-left:40px;”>
+<p class="hangingindent">
 
 <b>Population</b>: What specific people or conditions are you researching?
 
@@ -35,4 +35,4 @@ Some researchers use <b>(TS)</b> instead of <b>(D)</b> to stand for <b>T</b>imin
 
 In this course, we’ll start with a broad question and use PICO(D) to transform it into a well-formulated question that will guide our search for appropriate evidence. So, let’s get started. 
 
-</div>
+</p>
