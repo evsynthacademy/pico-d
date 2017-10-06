@@ -38,6 +38,6 @@ In this course, we’ll start with a broad question and use PICO(D) to transform
 			<div class="title">
 				Next module:
 			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}/modules/"> {{ next }} Using Systematic Reviews
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/population/intro/"> {{ next }} Population
 			</a>
 		</div>
