@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1507233208157.000,
+    "created" : 1507305306910.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "233329636",
-    "id" : "22269C0",
-    "lastKnownWriteTime" : 1507235209,
-    "last_content_update" : 1507235209665,
+    "hash" : "2049911892",
+    "id" : "4DDDF52D",
+    "lastKnownWriteTime" : 1507305335,
+    "last_content_update" : 1507305335101,
     "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/Teaching/New Course Ideas/EvSynthAcademy/picod/_data/course.yml",
     "project_path" : "_data/course.yml",
     "properties" : {
-        "cursorPosition" : "2,40",
+        "cursorPosition" : "2,88",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 9,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "yaml"
