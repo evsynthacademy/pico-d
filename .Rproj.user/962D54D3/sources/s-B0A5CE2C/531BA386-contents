@@ -1,9 +1,9 @@
 ---
-  title: "Define Condition"
+  title: "Diagnosis"
 ---
 
 
-## Population: Define the condition
+## Population: Diagnosis
 
 <br>
 
@@ -23,8 +23,8 @@ You don’t need to include this level of specificity in your question, but it s
 <h3> Keep in mind…. </h3> 
 
 As you’re thinking about how your disease should be defined and detected, remember that there is always a trade-off between rigor and real-world practice.  It may be ideal to have all patients diagnosed through a lab test, but these tests can be costly and invasive. It’s even possible few clinicians actually diagnose the condition this way. 
-
+<br><br>
 If you require too much rigor, you might not find enough studies for your systematic review, but if you’re too vague, you might include studies that don’t really capture the patients you care about. It’s always a balancing act.
-
+<br><br>
 Now that you question is more specific about the population you care about, let’s move on to describing your <b>interventions</b> and <b>comparators</b>.
 </div>
