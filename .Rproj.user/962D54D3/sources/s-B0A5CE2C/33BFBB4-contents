@@ -31,3 +31,13 @@ Depending on the overall research question and the likely availability of eviden
 Some researchers use **(TS)** instead of **(D)** to stand for **T**iming (or follow-up duration) and Setting. Either way, the basic idea is the same. You use this step to describe the kind of studies you want to include in your systematic review. 
 
 In this course, we’ll start with a broad question and use PICO(D) to transform it into a well-formulated question that will guide our search for appropriate evidence. So, let’s get started. 
+
+
+
+<div class="pagination-section" style="text-align: right">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/"> {{ next }} Using Systematic Reviews
+			</a>
+		</div>
