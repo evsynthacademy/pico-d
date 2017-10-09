@@ -15,7 +15,9 @@ For the purposes of this course, let’s compare peritoneal dialysis (the interv
 
 Here’s the revised version of the original question:
 
-What’s the best way to manage  How does peritoneal dialysis (intervention) compare with hemodialysis (comparator) for adults with stage 5 chronic kidney disease?
+<center>
+<img src="{{site.baseurl}}/img/pop5.gif" width="700" >
+</center>
 
 Note that this formulation of the research question is neutral in regards to whether peritoneal dialysis or hemodialysis may be better. This is much prefered to the more biased way of asking the same question: Is peritoneal dialysis better than hemodialysis for adults with stage 5 CKD? The latter question suggests that the researchers are biased toward peritoneal dialysis.
 

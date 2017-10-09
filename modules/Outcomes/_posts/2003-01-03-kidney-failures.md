@@ -13,9 +13,14 @@ For the sake of this exercise, you’re going to choose two clinical outcomes: s
 
 Here’s the revised question, now broken into two parts to integrate those outcomes:
 
-How does peritoneal dialysis compare with hemodialysis with regards to 6 month mortality following the start of dialysis for adults with stage 5 chronic kidney disease?
+<center>
+<img src="{{site.baseurl}}/img/pop7.gif" width="700" >
+</center>
 
-How does peritoneal dialysis compare with hemodialysis with regards to infection rates 6 months after the start of dialysis for adults with stage 5 chronic kidney disease?
+
+<center>
+<img src="{{site.baseurl}}/img/pop8.gif" width="700" >
+</center>
 
 To review, your question now addresses:
 
