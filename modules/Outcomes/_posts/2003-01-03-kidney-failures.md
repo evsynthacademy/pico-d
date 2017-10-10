@@ -30,3 +30,12 @@ To review, your question now addresses:
 - **O**utcomes: 6 month mortality and 6 month infection rates following start of dialysis
 
 Next, you’ll address the last category in the PICO (D) approach: **Design**.
+
+
+<div class="pagination-section" style="text-align: right">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/design/design/"> {{ next }} Design
+			</a>
+		</div>

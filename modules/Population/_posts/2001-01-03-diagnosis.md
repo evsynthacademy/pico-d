@@ -28,3 +28,11 @@ If you require too much rigor, you might not find enough studies for your system
 <br><br>
 Now that you question is more specific about the population you care about, let’s move on to describing your <b>interventions</b> and <b>comparators</b>.
 </div>
+
+<div class="pagination-section" style="text-align: right">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/interventions%20&%20comparators/int-comp/"> {{ next }} Interventions + Comparators
+			</a>
+		</div>
