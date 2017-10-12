@@ -9,6 +9,6 @@ This is the second part in a series of online courses about how to conduct a sys
 
 For more background on what a systematic review is and how it might help you answer an important question, check out our intro course.
 
-If you’re ready to write your research question, [click here to get started!]({{site.baseurl}}/modules/what%20makes%20a%20good%20question/intro/)
+If you’re ready to write your research question, [click here to get started!]({{site.baseurl}}/modules/good%20questions/intro/)
 
 
