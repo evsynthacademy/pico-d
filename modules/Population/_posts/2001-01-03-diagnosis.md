@@ -26,7 +26,7 @@ As you’re thinking about how your disease should be defined and detected, reme
 <br><br>
 If you require too much rigor, you might not find enough studies for your systematic review, but if you’re too vague, you might include studies that don’t really capture the patients you care about. It’s always a balancing act.
 <br><br>
-Now that you question is more specific about the population you care about, let’s move on to describing your <b>interventions</b> and <b>comparators</b>.
+Now that your question is more specific about the population you care about, let’s move on to describing your <b>interventions</b> and <b>comparators</b>.
 </div>
 
 <div class="pagination-section" style="text-align: right">
