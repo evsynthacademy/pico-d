@@ -18,10 +18,6 @@ Here’s the revised question, now broken into two parts to integrate those outc
 </center>
 
 
-<center>
-<img src="{{site.baseurl}}/img/pop8.gif" width="700" >
-</center>
-
 To review, your question now addresses:
 
 - **P**opulation: Adults diagnosed with stage 5 chronic kidney disease
