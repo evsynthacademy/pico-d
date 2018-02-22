@@ -10,7 +10,7 @@
 What types of studies will help you answer your question?  Remember, you want to know:
 
 <center>
-<img src="{{site.baseurl}}/img/pop9.gif" width="700" >
+<img src="{{site.baseurl}}/img/pop9.PNG" width="700" >
 </center>
 
 
